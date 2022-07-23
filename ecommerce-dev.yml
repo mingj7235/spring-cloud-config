@@ -1,6 +1,6 @@
 token:
   expiration_time: 864000000
-  secret: mj_token_dev_bus_test
+  secret: '{cipher}AQBRj6612nA2WKE7/XledAiP0U5xnwW6WCv3E65ctiVmz1KtSmupqff5F7MrMcHcQ4LyDQd/kqnFSk5XciziLZXqQ81YEOQ3cSWGfO8QgvJra3jD1mzUiaw5UAM8qy4IB7s9W8f5D58ohGZKefujZcmlpOcFWIGik3jn9GPkD1ZYN7ZQbqNIYocvUvEs1hzbPILuiA3luVYZ4wX0MjiYXdKpKvwv6Z9QRUW6buHOsyrd4KoQ5rufEASLtUt79jnLrVEHg7xRG+HUzeExS+dcXt6ZoDYZTjq7hMTDyfmaLW3LCa83j026yN2JnSHn5dUhvDgPcWio+qVWMqVmP6HYTFnEdC99CIWJHPs4Bg8VT2vshmJ2S2htCjl9Lx6CL92yrVF5xNLjgcdCYNCxnNF5yJoy'
 
 gateway:
   ip: 192.168.0.2
