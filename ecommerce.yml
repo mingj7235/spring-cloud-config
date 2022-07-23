@@ -1,6 +1,6 @@
 token:
-  expiration_time: 86400000
-  secret: custom_user_token_ecommerce
+  expiration_time: 8645000
+  secret: changed_data
 
 gateway:
   ip: 192.168.0.2
