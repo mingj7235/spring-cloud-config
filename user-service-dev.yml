@@ -3,7 +3,7 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://localhost:3307/msa_user_service
     username: msa_test
-    password: '{cipher}2dd560fc88e60715deb20e01649c6c62e55beab2766df496db264e51d9cf5d08'
+    password: '{cipher}AQALq7AhUBXjGnbASh+mqQubMS5JA/+NvBP16r8dTv8OIsJa/hx96mkpemnFRXmnQnJmaQe/E2aupA4WS1/SfEJo7JxyBJfsQCYNDvgHJXeR2zT1DSO/wadffu93mYPB+UBXFtn91qE3UNiXJEE2BqwcuwMEU7gBR6z/yg03e9kJFgh5Dh8OlINb2PF7UpMHjzNt8X/1aWOPr9REbGWuqN6C6xPcuhxUw8xdc0ShN058nxW+ZGSQ5ehNCgxXr4GLf9eOMEKaf8a1CYTRadOoH0ZWDfprqFvpyGFRBZgqe4mBYi65A698ocAllyVpoP+/oUJb/WWHAw8XCUzMIj3XMuU2Bvc/Yk1elS7wEcspZmo9VwtmbW/ycjgLLGtM6CM1XHA='
 
 token:
   expiration_time: 864000000
