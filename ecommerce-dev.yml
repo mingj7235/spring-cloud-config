@@ -1,6 +1,6 @@
 token:
   expiration_time: 864000000
-  secret: mj_token_dev_changed
+  secret: mj_token_dev_bus_test
 
 gateway:
   ip: 192.168.0.2
