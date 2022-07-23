@@ -1,0 +1,6 @@
+spring:  
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3307/msa_user_service
+    username: msa_test
+    password: '{cipher}2dd560fc88e60715deb20e01649c6c62e55beab2766df496db264e51d9cf5d08'
