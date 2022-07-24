@@ -12,5 +12,11 @@ token:
 gateway:
   ip: 192.168.0.2
 
+# url 을 Microservice name 으로 변경 
+# 가능한 이유 : User Service MSA 에서 RestTemplate을 @LoadBalanced 로 Bean 등록을 했기 때문임
 order_service:
-  url: http://127.0.0.1:8000/order-service/%s/orders
+  # url: http://127.0.0.1:8000/order-service/%s/orders
+  url: http://order-service/order-service/%s/orders
+
+
+  
